@@ -1,0 +1,23 @@
+#board {
+    background-color: rgb(163, 110, 110);
+    height: 600px;
+    width: 520px; 
+}
+#task{
+    background-color: rgb(230, 230, 230);
+    height: 400px; 
+    width: 280px; 
+}
+#grave-yard{
+    background-color: rgb(230, 230, 230);
+    height: 200px; 
+    width: 160px; 
+}
+#animal{
+    background-color: rgb(230, 230, 230);
+    height: 200px; 
+    width: 120px; 
+}
+body{
+    background-color: pink;
+}
